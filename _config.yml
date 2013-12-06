@@ -13,6 +13,12 @@ github_user: jefersonspencer
 github_repo_url: https://github.com/jefersonspencer/jefersonspencer.github.io/
 
 #
+# Disqus comments
+#
+disqus_short_name: jefersondev
+disqus_show_comment_count: true
+
+#
 # Jekyll Settings
 #
 markdown: redcarpet
