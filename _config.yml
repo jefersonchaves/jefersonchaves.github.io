@@ -1,3 +1,20 @@
-name: Your New Jekyll Site
+#
+# Blog Settings
+#
+name: Jeferson Spencer
+title: Developer blog with info useful info about .NET and Force.com
+author: Jeferson Spencer
+url: http://jefersonspencer.github.io
+
+#
+# Github repositories
+#
+github_user: jefersonspencer
+github_repo_url: https://github.com/jefersonspencer/jefersonspencer.github.io/
+
+#
+# Jekyll Settings
+#
 markdown: redcarpet
 pygments: true
+permalink: /archive/:year/:month/:day/:title/
