@@ -24,3 +24,6 @@ disqus_show_comment_count: true
 markdown: redcarpet
 pygments: true
 permalink: /archive/:year/:month/:day/:title/
+
+gems:
+  - jekyll-sitemap
