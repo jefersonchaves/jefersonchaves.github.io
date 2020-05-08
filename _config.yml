@@ -3,8 +3,8 @@
 #
 name: Jeferson DEV
 title: Developer blog with some useful info about .NET and Force.com
-author: Jéferson Spencer
-url: http://jefersonspencer.github.io
+author: Jéferson Chaves
+url: http://jefersonchaves.github.io
 
 #
 # Github repositories
@@ -22,8 +22,8 @@ disqus_show_comment_count: true
 # Jekyll Settings
 #
 markdown: redcarpet
-pygments: true
 permalink: /archive/:year/:month/:day/:title/
+highlighter: pygments
 
 gems:
   - jekyll-sitemap
